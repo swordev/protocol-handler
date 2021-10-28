@@ -1,6 +1,6 @@
 {
   "name": "@swordev/protocol-handler",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "CLI tool for working with protocol handlers",
   "keywords": [
     "cli",
